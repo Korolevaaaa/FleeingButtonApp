@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleeingButtonApp", "FleeingButtonApp.csproj", "{81E09AD8-EA8D-43AB-BDBB-70D9206F2598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E09AD8-EA8D-43AB-BDBB-70D9206F2598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E09AD8-EA8D-43AB-BDBB-70D9206F2598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E09AD8-EA8D-43AB-BDBB-70D9206F2598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E09AD8-EA8D-43AB-BDBB-70D9206F2598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A0F85E-3C1B-4AC5-A392-2217328AC4F2}
+	EndGlobalSection
+EndGlobal
